@@ -1,1 +1,1 @@
-web: node . --"session.data.json"
+web: node . --server "session.data.json"
