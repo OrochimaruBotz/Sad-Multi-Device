@@ -10,6 +10,7 @@ conn.sendHydrated(m.chat, '*『 GojoBot 』*', `ʜᴀɪ,ᴀᴋᴜ ᴀᴅᴀʟᴀ
 }
 handler.help = ['menu']
 handler.tags = ['general']
-handler.command = /^(menu)$/i
+handler.customPrefix = /^(menu|.menu)$/i
+handler.command = new RegExp
 
 export default handler
