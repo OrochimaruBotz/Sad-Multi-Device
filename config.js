@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 888-0494-7282'],
-  ['+62 888-0494-7282', 'Yamato', true],
+  ['+62 888-0494-7282', 'Humanz', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -87,7 +87,7 @@ global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://teleg
 global.nomorbot = '62888049472829'
 global.nomorown = '6288804947282'
 global.namebot = 'Gojo-Bot'
-global.nameown = 'Yamato'
+global.nameown = 'Humanz'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
