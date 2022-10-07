@@ -51,9 +51,11 @@ https://github.com/LitRHap
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
+*❉ Humanz:*
+https://github.com/OrochimaruBotz
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
-*❉ Fahri:*
-https://github.com/FahriAdison
+*❉ Humanz:*
+https://github.com/OrochimaruBotz
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*
